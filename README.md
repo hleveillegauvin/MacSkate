@@ -10,7 +10,7 @@ This GitHub repository contains the game's source code.  For more info about the
 
 https://hleveillegauvin.itch.io/macskate
 
-I started working on MacSkate in 2022 as a fun project to learn how to program in C. Everything was developped on a 1990 Macintosh Classic using [Think C 5.0](https://www.macintoshrepository.org/1417-symantec-think-c-5-0). 
+I started working on MacSkate in 2022 as a fun project to learn how to program in C. Everything was developped on a [1990 Macintosh Classic](https://en.wikipedia.org/wiki/Macintosh_Classic) using [Think C 5.0](https://www.macintoshrepository.org/1417-symantec-think-c-5-0). 
 
 The main book I used to learn how to use the Macintosh ToolBox was:
 
